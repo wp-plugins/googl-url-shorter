@@ -16,7 +16,13 @@ Use shortcode `[googl title="CodeCTO.com" context="Go to CodeCTO.com"]http://cod
 
 == Screenshots ==
 
+1. Short URLs Manager
+
 == Changelog ==
+
+= 1.0.1 =
+* Program optimize
+* Add short urls manager
 
 = 1.0 =
 * Released
